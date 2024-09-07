@@ -1,0 +1,9 @@
+{
+  "name": "capitalize-the-first-letter",
+  "version": "1.0.8",
+  "description": "",
+  "main": "capitalize.js",
+  "keywords": ["capitalize", "uppercase", "format"],
+  "author": "Achraf RRAMI",
+  "license": "MIT"
+}
